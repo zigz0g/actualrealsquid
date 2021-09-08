@@ -80,7 +80,7 @@ var games = {
     "mysteryred":"Home | Schoology",
     "pokemonruby":"Home | Schoology",
     "pokemonsapphire":"Home | Schoology",
-    "pokemonred":v
+    "pokemonred":"Home | Schoology",
     "gba_video_pokemon_1":"Home | Schoology",
     "gba_video_pokemon_2":"Home | Schoology",
     "gba_video_pokemon_3":"Home | Schoology",
